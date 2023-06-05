@@ -30,7 +30,7 @@ YouTube-to-Chatbot aims to unlock new possibilities for content creators and fos
 
 ## Early Access and Contributions
 
-To get early access to new features and updates, follow me at [@ehalm_](https://twitter.com/ehalm_) on Twitter. If you are a creator interested in a custom model or a developer eager to contribute to this project, feel free to send me a DM.
+To get early access to new features and updates, follow me at [@ehalm_](https://twitter.com/ehalm_) on Twitter. This is just the start! If you are a creator interested in a custom model or a developer eager to contribute to this project, feel free to shoot me a DM.
 
 ## Getting Started
 
