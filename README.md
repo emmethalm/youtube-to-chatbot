@@ -44,5 +44,3 @@ To start using YouTube-to-Chatbot, follow these steps:
 6. Engage in conversations with your AI assistant and explore its capabilities!
 
 Let's empower creators and revolutionize community engagement together! 🚀✨
-
-![YouTube-to-Chatbot](https://github.com/emmethalm/youtube-to-chatbot/blob/main/images/youtube-to-chatbot.png)
