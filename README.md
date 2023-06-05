@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome to YouTube-to-Chatbot, a revolutionary project that allows you to train a chatbot on an entire YouTube channel. 🌟
+Welcome to YouTube-to-Chatbot, a Python notebook that allows you to train a chatbot on an entire YouTube channel. 🌟
 
 This repository provides a notebook that utilizes the power of YouTube, OpenAI, Langchain, and Pinecone to build a conversational agent capable of mimicking the content, knowledge, and tone of any YouTube channel. By extracting information from the channel's videos and training a chatbot, we can create an AI-powered assistant that engages in meaningful conversations with users.
 
@@ -30,7 +30,7 @@ YouTube-to-Chatbot aims to unlock new possibilities for content creators and fos
 
 ## Early Access and Contributions
 
-To get early access to new features and updates, make sure to follow [@ehalm_](https://twitter.com/ehalm_) on Twitter. If you are a creator interested in a custom model or a developer eager to contribute to this project, feel free to send a direct message.
+To get early access to new features and updates, follow me at [@ehalm_](https://twitter.com/ehalm_) on Twitter. If you are a creator interested in a custom model or a developer eager to contribute to this project, feel free to send me a DM.
 
 ## Getting Started
 
