@@ -1,6 +1,6 @@
 # YouTube-to-Chatbot 🤖🎥
 
-![YouTube-to-Chatbot](https://github.com/emmethalm/youtube-to-chatbot/blob/main/images/youtube-to-chatbot.png)
+![YouTube-to-chatbot logo](https://github.com/emmethalm/youtube-to-chatbot/assets/69861956/5dd568f1-face-4e16-9713-808bfaf087e9)
 
 #### 👉 [Original launch announcement](https://twitter.com/ehalm_/status/1660914850107883520?s=20) 🚀
 
