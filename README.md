@@ -12,14 +12,14 @@ This repository provides a notebook that utilizes the power of YouTube, OpenAI, 
 
 ![YouTube-to-Chatbot Demo](https://github.com/emmethalm/youtube-to-chatbot/blob/main/images/demo.gif)
 
-## How it Works
+## 🧑‍🏫 How it Works
 
 1. Start by adding the YouTube ID of the channel you'd like to clone.
 2. Obtain API keys for OpenAI, YouTube, and Pinecone.
 3. Run each step of the notebook to extract data from YouTube, train the chatbot, and deploy the model.
 4. Interact with your newly created chatbot and witness its ability to hold intelligent conversations based on the channel's content.
 
-## Benefits for Creators and Communities
+## 💬 Benefits for Creators and Communities
 
 YouTube-to-Chatbot aims to unlock new possibilities for content creators and foster community growth. With this project, creators can:
 
@@ -28,11 +28,11 @@ YouTube-to-Chatbot aims to unlock new possibilities for content creators and fos
 - Automate routine tasks such as answering frequently asked questions.
 - Expand their reach by enabling chatbot interactions across various platforms.
 
-## Early Access and Contributions
+## 🎯 Early Access and Contributions
 
 To get early access to new features and updates, follow me at [@ehalm_](https://twitter.com/ehalm_) on Twitter. This is just the start! If you are a creator interested in a custom model or a developer eager to contribute to this project, feel free to shoot me a DM.
 
-## Getting Started
+## 🏁 Getting Started
 
 To start using YouTube-to-Chatbot, follow these steps:
 
